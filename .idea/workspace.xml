@@ -6,14 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80026bcd-5a89-4eeb-92e3-c8ea5b054fd6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/musicstore_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/musicstore_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/musicstore.iml" afterPath="$PROJECT_DIR$/musicstore.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" />
-    </list>
+    <list default="true" id="80026bcd-5a89-4eeb-92e3-c8ea5b054fd6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -530,12 +523,12 @@
       <option name="presentableId" value="Default" />
       <updated>1521281085254</updated>
       <workItem from="1521281090661" duration="1254000" />
-      <workItem from="1521283500660" duration="1538000" />
+      <workItem from="1521283500660" duration="1626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2792000" />
+    <option name="totallyTimeSpent" value="2880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
