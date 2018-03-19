@@ -2,15 +2,23 @@ package com.musicstore.model;
 
 public class Product {
 
+    private String productId;
     private String productName;
     private String productCategory;
-    private String producDescription;
+    private String productDescription;
     private double productPrice;
     private String productCondition;
     private String productStatus;
-    private int unitInstock;
+    private int unitInStock;
     private String productManufacturer;
 
+    public String getProductId() {
+        return productId;
+    }
+
+    public void setProductId(String productId) {
+        this.productId = productId;
+    }
 
     public String getProductName() {
         return productName;
@@ -28,12 +36,12 @@ public class Product {
         this.productCategory = productCategory;
     }
 
-    public String getProducDescription() {
-        return producDescription;
+    public String getProductDescription() {
+        return productDescription;
     }
 
-    public void setProducDescription(String producDescription) {
-        this.producDescription = producDescription;
+    public void setProductDescription(String productDescription) {
+        this.productDescription = productDescription;
     }
 
     public double getProductPrice() {
@@ -60,12 +68,12 @@ public class Product {
         this.productStatus = productStatus;
     }
 
-    public int getUnitInstock() {
-        return unitInstock;
+    public int getUnitInStock() {
+        return unitInStock;
     }
 
-    public void setUnitInstock(int unitInstock) {
-        this.unitInstock = unitInstock;
+    public void setUnitInStock(int unitInStock) {
+        this.unitInStock = unitInStock;
     }
 
     public String getProductManufacturer() {
